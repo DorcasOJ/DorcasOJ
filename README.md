@@ -1,10 +1,14 @@
 <hr/>
+
+---
+
 ### 👩‍💻: About me:
-- 👋 Hi, my name is Dorcas Olajide
-- 👀 I am a frontend React developer in Nigeria
+
+👩 my name is Dorcas Olajide
+- I am a frontend React developer in Nigeria
 - 🌱 I’m currently learning Laravel 
 
-<div id="header"  align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftc29pN21ncWw1YTNramE0ejRrbGdjaW9mazlyZG82a2FycjhvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
   <div id="badges">
     
@@ -65,5 +69,8 @@
 </div>
 
 <hr/>
+
 ### 📊 Git Chart
+
 ![dorcasoj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorcasoj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
