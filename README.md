@@ -1,11 +1,11 @@
-
+<hr/>
 ### 👩‍💻: About me:
 - 👋 Hi, my name is Dorcas Olajide
 - 👀 I am a frontend React developer in Nigeria
 - 🌱 I’m currently learning Laravel 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftc29pN21ncWw1YTNramE0ejRrbGdjaW9mazlyZG82a2FycjhvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftc29pN21ncWw1YTNramE0ejRrbGdjaW9mazlyZG82a2FycjhvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftc29pN21ncWw1YTNramE0ejRrbGdjaW9mazlyZG82a2FycjhvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="200">
   <div id="badges">
     
@@ -19,22 +19,28 @@
 
   </div
 </div>
-
+<hr/>
 ### 💻 Tech Stack
 #### LANGUAGES
 <div>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="10" height="10" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="10" height="10" />
   </a>
   
   <a href="https://www.php.net/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="50">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="10" height="10" >
   </a>
  
 </div>
+
+💻 Tech Stack
+LANGUAGES
+Solidity Rust  Python  JavaScript  TypeScript 
+TOOLS AND LIBRARIES
+Git React  Nodejs  Flask  Heroku 
 
 #### TOOLS AND LIBRARIES
 <div>
