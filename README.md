@@ -10,7 +10,7 @@
   <div id="badges">
     
   <a href="https://www.linkedin.com/in/dorcas-olajide/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
 
   <a href="https://medium.com/@dorcas2017">
@@ -24,14 +24,14 @@
 #### LANGUAGES
 <div>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript width="50" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" />
   </a>
   
   <a href="https://www.php.net/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="50">
   </a>
  
 </div>
