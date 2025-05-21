@@ -1,7 +1,4 @@
-<hr/>
-
 ---
-
 ### 👩‍💻: About me:
 
 👩 my name is Dorcas Olajide
@@ -23,10 +20,10 @@
   </div>
 </div>
 
-<hr/>
+---
 ### 💻 Tech Stack
-#### LANGUAGES
 
+#### LANGUAGES
 <div>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
@@ -41,7 +38,7 @@
  
 </div>
 
-💻 Tech Stack
+
 
 #### TOOLS AND LIBRARIES
 <div>
@@ -68,9 +65,8 @@
   </a>
 </div>
 
-<hr/>
-
-### 📊 Git Chart
+---
+\### 📊 Git Chart
 
 ![dorcasoj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dorcasoj&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
