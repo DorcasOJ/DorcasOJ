@@ -63,6 +63,12 @@
   <a href="https://flask.palletsprojects.com/en/stable/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask"  alt="Flask" width="40" height="40">&nbsp;
   </a>
+
+
+  <a href=  "https://jupyter.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook"  alt="Jupyter" width="40" height="40">&nbsp;
+  </a>
+
 </div>
 
 ---
